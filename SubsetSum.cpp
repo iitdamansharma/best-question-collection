@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 class  Solution {
     public:
     void func(int ind, int sum, vecor<int> &arr, int N, vector<int> &sumSubset){
